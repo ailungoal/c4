@@ -4,7 +4,7 @@
 #include "stdlib.h"
 #include "IntImage.h"
 #include "device_functions.h"
-
+####
 
 void calculate_sobel_gpu(IntImage<REAL>& src,IntImage<int>& result,int height,int width);
 
